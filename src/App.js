@@ -96,7 +96,7 @@ function App() {
   return (
     <div>
       <h1>CO2 Emissions Calculator</h1>
-      <form>
+      <form> 
         <label>
           Distance (KM):
           <input type="number" value={distance} onChange={(e) => setDistance(e.target.value)} />
