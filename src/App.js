@@ -83,9 +83,9 @@ function App() {
 
   const travelVehicleMap = {
     'CarbonFootprintFromFlight': flightTypes,
-    'CarbonFootprintFromCarTravel': carTypes,  // Assuming car doesn't have specific types in this example
+    'CarbonFootprintFromCarTravel': carTypes,  
     'CarbonFootprintFromMotorBike': motorBikeTypes,
-    'CarbonFootprintFromPublicTransit': publicTransitTypes  // Assuming public transit doesn't have specific types in this example
+    'CarbonFootprintFromPublicTransit': publicTransitTypes  
   };
 
   const averagesEmission = {

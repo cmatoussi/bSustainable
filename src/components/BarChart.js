@@ -6,7 +6,6 @@ const BarChart = ({ averageEmissions, userEmissions }) => {
   const chartInstance = useRef(null);
 
   useEffect(() => {
-    // Destroy the previous chart instance before creating a new one
     if (chartInstance.current) {
       chartInstance.current.destroy();
     }
@@ -47,7 +46,6 @@ const BarChart = ({ averageEmissions, userEmissions }) => {
       });
     }
 
-    // Return a cleanup function to destroy the chart when the component unmounts
     return () => {
       if (chartInstance.current) {
         chartInstance.current.destroy();

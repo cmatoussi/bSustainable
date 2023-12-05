@@ -64,13 +64,13 @@ select {
 }
 .page-content{
   display: flex;
-  justify-content: space-between; /* Align items with space between them */
+  justify-content: space-between; 
   align-items: flex-end;
 }
 
 .container {
   display: flex;
-  flex-direction: column; /* Arrange items vertically */
+  flex-direction: column; 
   align-items: left;
 
 }
@@ -92,8 +92,8 @@ select {
 }
 .page-container {
   display: flex;
-  justify-content: space-between; /* Adjust this as needed */
-  align-items: flex-start; /* Adjust this as needed */
+  justify-content: space-between; 
+  align-items: flex-start; 
 }
 
 .page-content {
@@ -104,7 +104,6 @@ select {
 }
 
 .icon-container > * {
-  margin-right: 10px; /* Add right margin between icons */
+  margin-right: 10px; 
 }
 
-/* Add any other styles as needed */
