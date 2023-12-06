@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/cmatoussi/bsustainable.git/static/css/main.1c97cf0c.css",
+    "main.js": "/cmatoussi/bsustainable.git/static/js/main.390597cc.js",
+    "static/js/787.3bfaca02.chunk.js": "/cmatoussi/bsustainable.git/static/js/787.3bfaca02.chunk.js",
+    "index.html": "/cmatoussi/bsustainable.git/index.html",
+    "main.1c97cf0c.css.map": "/cmatoussi/bsustainable.git/static/css/main.1c97cf0c.css.map",
+    "main.390597cc.js.map": "/cmatoussi/bsustainable.git/static/js/main.390597cc.js.map",
+    "787.3bfaca02.chunk.js.map": "/cmatoussi/bsustainable.git/static/js/787.3bfaca02.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1c97cf0c.css",
+    "static/js/main.390597cc.js"
+  ]
+}
